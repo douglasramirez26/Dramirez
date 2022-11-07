@@ -1,0 +1,13 @@
+¿Que es ser autodidacta?
+Es aprender cualquier cosa por si mismo, con nuestros propios miedos
+
+¿Que es una matriz en programación?
+Para comprender lo que es una matriz se tiene que tener en cuenta la definición de los arreglos, estos son una estructura que se utiliza para almacenar varios 
+en una sola variable, y se pueden almacenar en posiciones de memoria continua. Teniendo en cuenta lo anterior, una matriz es un grupo de arreglos unidos.
+
+Fuentes para aprender a programar.
+Programación ATS: https://www.youtube.com/c/Programaci%C3%B3nATS
+
+Programar ya: https://www.programarya.com/
+
+Code Project: https://www.codeproject.com/
